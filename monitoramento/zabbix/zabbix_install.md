@@ -48,3 +48,6 @@ php_value max_input_time 300
 php_value always_populate_raw_post_data -1
 php_value date.timezone America/Sao_Paulo
 ```
+
+### Reiniciando Apache
+```# systemctl restart apache2```
