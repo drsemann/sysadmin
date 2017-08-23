@@ -9,10 +9,22 @@
 Coleção de howto e dicas.
 
 
-  ## Conteúdo
-  - [Sistemas Operacionais](#sistemas-operacionais)
-  - [Networking](#networking)
-  - [Monitoramento](#monitoramento)
-  - [Dicas Rápidas](#dicas)
+## Conteúdo
+ - [Plataformas](#plataformas)
+ - [Networking](#networking)
+ - [Monitoramento](#monitoramento)
+ - [Dicas Rápidas](#dicas)
 
-  ## Sistemas Operacaionais
+## Plataformas
+ - [Linux]
+ - [MacOS X]
+ - [Windows]
+
+## Networking
+ - [Cisco]
+ - [Juniper]
+ - [Fortinet]
+
+## Monitoramento
+ - [Zabbix]
+ 	- [Instalação](#zabbix-instalação)
