@@ -24,3 +24,27 @@
 
 #### Importando
 ```# zcat /usr/share/doc/zabbix-server-mysql/create.sql.gz | mysql -uzabbix -p zabbix```
+
+### Configurando zabbix_server.conf
+
+```
+# vim /etc/zabbix/zabbix_server.conf
+DBHost=localhost
+DBName=zabbix
+DBUser=zabbix
+DBPassword=<password>
+```
+### Iniciando o serviço
+
+```# systemctl start zabbix-server```
+
+### Configurações php.ini
+```
+php_value max_execution_time 300
+php_value memory_limit 128M
+php_value post_max_size 16M
+php_value upload_max_filesize 2M
+php_value max_input_time 300
+php_value always_populate_raw_post_data -1
+php_value date.timezone America/Sao_Paulo
+```
