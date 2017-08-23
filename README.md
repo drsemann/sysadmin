@@ -27,5 +27,5 @@ Coleção de howto e dicas.
 
 ## Monitoramento
  - [Zabbix]
- 	- [Instalação](#zabbix-instalacao)
+ 	- [Instalação](<a href="https://github.com/drsemann/sysadmin/blob/master/monitoramento/zabbix/zabbix_install.md">Instalação</code></a>)
  	
