@@ -10,4 +10,4 @@ apt update
 
 ### Instalando o servidor Zabbix
 
- apt install zabbix-server-mysql zabbix-frontend-php
+``` # apt install zabbix-server-mysql zabbix-frontend-php ```
