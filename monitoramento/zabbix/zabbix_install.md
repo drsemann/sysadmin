@@ -7,3 +7,7 @@ wget http://repo.zabbix.com/zabbix/3.4/debian/pool/main/z/zabbix-release/zabbix-
 dpkg -i zabbix-release_3.4-1+stretch_all.deb
 apt update
 ```
+
+### Instalando o servidor Zabbix
+
+ apt install zabbix-server-mysql zabbix-frontend-php
