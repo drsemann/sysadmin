@@ -26,6 +26,6 @@ Coleção de howto e dicas.
  - [Fortinet]
 
 ## Monitoramento
- - *Zabbix*
+ - ###Zabbix
  	- <a href="https://github.com/drsemann/sysadmin/blob/master/monitoramento/zabbix/zabbix_install.md">Instalação</code></a>
  	
