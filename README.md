@@ -16,16 +16,16 @@ Coleção de howto e dicas.
  - [Dicas Rápidas](#dicas)
 
 ## Plataformas
- - [Linux]
- - [MacOS X]
- - [Windows]
+ - Linux
+ - MacOS X
+ - Windows
 
 ## Networking
- - [Cisco]
- - [Juniper]
- - [Fortinet]
+ - Cisco
+ - Juniper
+ - Fortinet
 
 ## Monitoramento
- * Zabbix
+ - Zabbix
  	- <a href="https://github.com/drsemann/sysadmin/blob/master/monitoramento/zabbix/zabbix_install.md">Instalação</code></a>
  	
