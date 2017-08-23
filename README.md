@@ -4,6 +4,11 @@
   Author: drsemann
   -->
 
+# Sysadmin
+
+Coleção de howto e dicas.
+
   ## Conteúdo
   - [Sistemas Operacionais]
   - [Networking]
+  - [Dicas Rápidas]
