@@ -34,4 +34,4 @@ Coleção de howto e dicas.
 
 ## Banco de Dados
  - MariaDB
- 	-  <a href="https://github.com/drsemann/sysadmin/blob/master/dbs/mariadb/setar_pass_root.md">Setando e Alterando senha root</a>
+ 	-  <a href="https://github.com/drsemann/sysadmin/blob/master/dbs/mariadb/setar_pass_root.md">Setando e alterando senha root</a>
