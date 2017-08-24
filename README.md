@@ -13,6 +13,7 @@ Coleção de howto e dicas.
  - [Plataformas](#plataformas)
  - [Networking](#networking)
  - [Monitoramento](#monitoramento)
+ - [Banco de Dados](#bancodados)
  - [Dicas Rápidas](#dicas)
 
 ## Plataformas
@@ -30,4 +31,7 @@ Coleção de howto e dicas.
 ## Monitoramento
  - Zabbix
  	- <a href="https://github.com/drsemann/sysadmin/blob/master/monitoramento/zabbix/zabbix_install.md">Instalação</a>
- 	
+
+## Banco de Dados
+ - MariaDB
+ 	-  <a href="https://github.com/drsemann/sysadmin/blob/master/dbs/mariadb/setar_pass_root.md">Setando e Alterando senha root</a>
