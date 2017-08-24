@@ -18,8 +18,8 @@ Para habilitar o deltarpm edite o arquivo /etc/dnf/dnf.conf e adicione a linha a
 
 Ferramenta para gerenciamento de configurações e mudança na aparência do gnome.
 
-Instalando o pacote
-  sudo dnf install gnome-tweak-tool
+### Instalando o pacote
+```sudo dnf install gnome-tweak-tool```
 
 ===== Instale o Yumex =====
 
