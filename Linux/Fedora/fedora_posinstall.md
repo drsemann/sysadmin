@@ -66,7 +66,9 @@ Remova o pacote "gstreamer1-plugin-mpg123" (caso esteja instalado no sistema):
 
 E após, instale os codecs multimídia com:
 
-<code>sudo dnf install amrnb amrwb faad2 flac ffmpeg gpac-libs lame libfc14audiodecoder mencoder mplayer x264 x265 gstreamer-plugins-espeak gstreamer-plugins-fc gstreamer-rtsp gstreamer-plugins-good gstreamer-plugins-bad gstreamer-plugins-bad-free-extras gstreamer-plugins-bad-nonfree gstreamer-plugins-ugly gstreamer-ffmpeg gstreamer1-plugins-base gstreamer1-libav gstreamer1-plugins-bad-free-extras gstreamer1-plugins-bad-freeworld gstreamer1-plugins-base-tools gstreamer1-plugins-good-extras gstreamer1-plugins-ugly gstreamer1-plugins-bad-free gstreamer1-plugins-good </code>
+```
+sudo dnf install amrnb amrwb faad2 flac ffmpeg gpac-libs lame libfc14audiodecoder mencoder mplayer x264 x265 gstreamer-plugins-espeak gstreamer-plugins-fc gstreamer-rtsp gstreamer-plugins-good gstreamer-plugins-bad gstreamer-plugins-bad-free-extras gstreamer-plugins-bad-nonfree gstreamer-plugins-ugly gstreamer-ffmpeg gstreamer1-plugins-base gstreamer1-libav gstreamer1-plugins-bad-free-extras gstreamer1-plugins-bad-freeworld gstreamer1-plugins-base-tools gstreamer1-plugins-good-extras gstreamer1-plugins-ugly gstreamer1-plugins-bad-free gstreamer1-plugins-good
+```
 
 ## Instalando o Telegram no Fedora via repositório
 
@@ -112,7 +114,7 @@ Importe a chave de assinatura da Google:
   
 Adicione o repositório do Google Chrome no sistema, para isto, copie e cole todo o conteúdo abaixo no terminal e após, pressione Enter:
 
-<code>
+```
 sudo tee /etc/yum.repos.d/google-chrome.repo <<RPMREPO
 [google-chrome]
 name=google-chrome
@@ -121,7 +123,7 @@ enabled=1
 gpgcheck=1
 gpgkey=https://dl.google.com/linux/linux_signing_key.pub
 RPMREPO
-</code>
+```
 
 Feito isso, instale o Google Chrome (estável) com:
 
@@ -173,7 +175,7 @@ Instalando o editor
 
 <code>sudo dnf install atom</code>
 
-----
+--
 
 fonte <a href="http://www.blogopcaolinux.com.br/2016/11/Guia-de-pos-instalacao-do-Fedora-25-Workstation.html">BlogOpcaoLinux</a>
 
