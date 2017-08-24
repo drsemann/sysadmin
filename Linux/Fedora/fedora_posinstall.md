@@ -1,7 +1,7 @@
 ## Habilitando Delta RPM
 
 Instalando o pacote
-  sudo dnf install deltarpm
+<code>sudo dnf install deltarpm</code>
   
 Para habilitar o deltarpm edite o arquivo /etc/dnf/dnf.conf e adicione a linha abaixo
   deltarpm=1
