@@ -15,6 +15,7 @@ Instalando o gerenciador de idiomas
 <code>sudo dnf install system-config-language</code>
 
 Execute o comando abaixo e selecione seu idioma, ele fará o download de todos os pacotes de seu idioma
+
 <code>system-config-language</code>
   
 ## Instale o GNOME Tweak Tool
@@ -171,6 +172,6 @@ Instalando o editor
 
 ----
 
-fonte [[http://www.blogopcaolinux.com.br/2016/11/Guia-de-pos-instalacao-do-Fedora-25-Workstation.html | BlogOpcaoLinux]]
+fonte <a href="http://www.blogopcaolinux.com.br/2016/11/Guia-de-pos-instalacao-do-Fedora-25-Workstation.html">BlogOpcaoLinux</a>
 
-fonte Instalação Atom [[https://andrewwippler.com/2016/03/18/atom-editor-on-fedora/ | Andrew Wippler's Sketchpad]]
+fonte Instalação Atom <a href="https://andrewwippler.com/2016/03/18/atom-editor-on-fedora/"> - Andrew Wippler's Sketchpad</a>
