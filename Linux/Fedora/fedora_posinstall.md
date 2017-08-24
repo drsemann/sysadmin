@@ -127,7 +127,7 @@ Feito isso, instale o Google Chrome (estável) com:
 
 <code>sudo dnf install google-chrome-stable</code>
 
-<code>Instalando o Adobe Flash Player</code>
+## Instalando o Adobe Flash Player
 
 Atualmente, a grande maioria dos sites mais acessados (como, por exemplo, o YouTube) já não "dependem" do Adobe Flash Player instalado, mas, caso necessite utilizá-lo (no Mozilla Firefox), basta adicionar o repositório da Adobe no sistema:
 
