@@ -1,4 +1,4 @@
-===== Habilitando Delta RPM =====
+## Habilitando Delta RPM
 
 Instalando o pacote
   sudo dnf install deltarpm
@@ -6,15 +6,15 @@ Instalando o pacote
 Para habilitar o deltarpm edite o arquivo /etc/dnf/dnf.conf e adicione a linha abaixo
   deltarpm=1
 
-===== Deixando o Fedora totalmente em Português =====
+## Deixando o Fedora totalmente em Português
 
-Instalando o gerenciador de idiomas
+### Instalando o gerenciador de idiomas
   sudo dnf install system-config-language
 
-Execute o comando abaixo e selecione seu idioma, ele fará o download de todos os pacotes de seu idioma
+### Execute o comando abaixo e selecione seu idioma, ele fará o download de todos os pacotes de seu idioma
   system-config-language
   
-===== Instale o GNOME Tweak Tool =====
+## Instale o GNOME Tweak Tool
 
 Ferramenta para gerenciamento de configurações e mudança na aparência do gnome.
 
