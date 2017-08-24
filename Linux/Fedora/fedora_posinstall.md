@@ -162,12 +162,15 @@ O Dropbox é um serviço de armazenamento e compartilhamento de arquivos na nuve
 ## Instalando o Editor Atom
   
  Instale os plugins 
+
 <code>sudo dnf install dnf-plugins-core</code>
   
  Habilitando o repositório
+
 <code>sudo dnf copr enable mosquito/atom</code>
  
 Instalando o editor 
+
 <code>sudo dnf install atom</code>
 
 ----
