@@ -17,6 +17,8 @@ Coleção de howto e dicas.
 
 ## Plataformas
  - Linux
+ 	- Fedora
+ 		- <a href="https://github.com/drsemann/sysadmin/blob/master/Linux/Fedora/fedora_posinstall.md"><code>Pos-Instalação</code></a>
  - MacOS X
  - Windows
 
@@ -27,5 +29,5 @@ Coleção de howto e dicas.
 
 ## Monitoramento
  - Zabbix
- 	- <a href="https://github.com/drsemann/sysadmin/blob/master/monitoramento/zabbix/zabbix_install.md">Instalação</code></a>
+ 	- <a href="https://github.com/drsemann/sysadmin/blob/master/monitoramento/zabbix/zabbix_install.md"><code>Instalação</code></a>
  	
