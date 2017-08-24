@@ -38,7 +38,7 @@ DBPassword=<password>
 
 ```# systemctl start zabbix-server```
 
-### Configurações php.ini
+### Configurações /etc/apache2/conf-enabled/zabbix.conf
 ```
 php_value max_execution_time 300
 php_value memory_limit 128M
