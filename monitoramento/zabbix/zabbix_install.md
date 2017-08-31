@@ -12,6 +12,10 @@
 
 ```# apt install zabbix-server-mysql zabbix-frontend-php```
 
+### Instalando libs adicionais
+
+```# apt install php7.0-bcmath php7.0-mbstring php-sabre-xml```
+
 ### Criando o banco de dados e importando tabelas
 
 #### Criando
