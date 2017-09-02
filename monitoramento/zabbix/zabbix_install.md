@@ -103,4 +103,4 @@ php_value date.timezone America/Sao_Paulo
 
 **Verificar execução do serviço**
 
-```#tasklist | findstr zabbix```
+```# tasklist | findstr zabbix```
