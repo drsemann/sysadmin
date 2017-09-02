@@ -58,12 +58,12 @@ php_value date.timezone America/Sao_Paulo
 
 # Instalando e configurando Agente
 
-## Instalando agente no Linux
+### Instalando agente no Linux
 
-Deb
+*Deb*
 
 ```# apt install zabbix-agent```
 
-Rpm
+*Rpm*
 
 ```# yum install zabbix-agent```
