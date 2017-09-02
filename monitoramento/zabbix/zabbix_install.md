@@ -68,7 +68,7 @@ php_value date.timezone America/Sao_Paulo
 
 ```# yum install zabbix-agent```
 
-## Configuração básica
+# Configuração básica
 
 ```
 # Server=<IP Servidor Zabbix>
