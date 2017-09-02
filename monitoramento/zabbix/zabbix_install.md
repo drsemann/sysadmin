@@ -63,6 +63,7 @@ php_value date.timezone America/Sao_Paulo
 Deb
 
 ```# apt install zabbix-agent```
+
 Rpm
 
 ```# yum install zabbix-agent```
