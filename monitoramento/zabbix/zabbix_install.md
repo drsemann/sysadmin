@@ -82,6 +82,11 @@ php_value date.timezone America/Sao_Paulo
 
 ```
 # https://www.zabbix.com/downloads/3.4.0/zabbix_agents_3.4.0.win.zip
+```
+
+**Criar pasta Zabbix e descompactar zip**
+
+```
 # Criar pasta Zabbix no C:\ do host
 # Criar pasta log dentro C:\Zabbix
 # Descompactar arquivo zip
