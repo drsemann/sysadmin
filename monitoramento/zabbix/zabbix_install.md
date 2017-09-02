@@ -72,6 +72,6 @@ php_value date.timezone America/Sao_Paulo
 
 ```
 # Server=<IP Servidor Zabbix>
-# Hostname=<Nome do host monitorado> (No cadastro no zabbix tem que ser o mesmo)
+# Hostname=<Nome do host monitorado> (No cadastro do zabbix tem que ser o mesmo)
 # ServerActive=<IP Servidor Zabbix>
 ```
