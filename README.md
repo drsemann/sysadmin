@@ -14,6 +14,7 @@ Coleção de howto e dicas.
  - [Networking](#networking)
  - [Monitoramento](#monitoramento)
  - [Banco de Dados](#bancodados)
+ - [Governança de TI](#governancati)
  - [Dicas Rápidas](#dicas)
 
 ## Plataformas
@@ -36,3 +37,7 @@ Coleção de howto e dicas.
 ## Banco de Dados
  - MariaDB
  	-  <a href="https://github.com/drsemann/sysadmin/blob/master/dbs/mariadb/setar_pass_root.md">Setando e alterando senha root</a>
+
+## Governança de TI
+- Glpi
+	- <a href="https://github.com/drsemann/sysadmin/blob/master/governancati/glpi/install_glpi_debian.md">Instalação Glpi no Debian</a>
