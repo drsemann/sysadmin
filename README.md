@@ -14,7 +14,7 @@ Coleção de howto e dicas.
  - [Networking](#networking)
  - [Monitoramento](#monitoramento)
  - [Banco de Dados](#banco-de-dados)
- - [Governança de TI](#governanca-de-ti)
+ - [Governança de TI](#governança-de-ti)
  - [Dicas Rápidas](#dicas)
 
 ## Plataformas
