@@ -41,3 +41,4 @@ Coleção de howto e dicas.
 ## Governança de TI
 - Glpi
 	- <a href="https://github.com/drsemann/sysadmin/blob/master/governancati/glpi/install_glpi_debian.md">Instalação Glpi no Debian</a>
+	- <a href="https://github.com/drsemann/sysadmin/blob/master/governancati/glpi/install_plugin_dashboard.md">Instalação do plugin dashboard no Glpi</a>
