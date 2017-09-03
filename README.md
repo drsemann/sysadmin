@@ -13,8 +13,8 @@ Coleção de howto e dicas.
  - [Plataformas](#plataformas)
  - [Networking](#networking)
  - [Monitoramento](#monitoramento)
- - [Banco de Dados](#bancodedados)
- - [Governança de TI](#governancadeti)
+ - [Banco de Dados](#banco-de-dados)
+ - [Governança de TI](#governanca-de-ti)
  - [Dicas Rápidas](#dicas)
 
 ## Plataformas
