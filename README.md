@@ -26,6 +26,8 @@ Coleção de howto e dicas.
 
 ## Networking
  - Cisco
+ 	- Roteadores
+ 		- <a href="https://github.com/drsemann/sysadmin/blob/master/cisco/roteadores/config_dhcp.md">DHCP</a>
  - Juniper
  - Fortinet
 
