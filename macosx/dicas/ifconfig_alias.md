@@ -4,4 +4,4 @@
 
 ### Remove Alias
 
-```# sudo ifconfig INTERFACE -alias IP``
+```# sudo ifconfig INTERFACE -alias IP```
