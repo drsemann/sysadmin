@@ -19,18 +19,17 @@ ip dhcp pool poolname
 ## Comandos opcionais
 
 **Habilitar debug do servidor DHCP**
+
 ```# debug ip dhcp server packet```
 
 **Remover ip atribuido no DHCP**
+
 ```# clear ip dhcp binding "IP"```
   
 **Remover MAC da tabela ARP**
+
 ```# clear ip arp "MAC"```
 
+fonte: https://networklessons.com/cisco/ccie-routing-switching/dhcp-static-binding-on-cisco-ios/
 
-----
-
-
-fonte: [[https://networklessons.com/cisco/ccie-routing-switching/dhcp-static-binding-on-cisco-ios/|NetworkLessons]]
-
-fonte: [[https://supportforums.cisco.com/discussion/11779701/binding-already-exists-xxxx-help|Cisco Support Forum]]
+fonte: https://supportforums.cisco.com/discussion/11779701/binding-already-exists-xxxx-help
