@@ -22,6 +22,8 @@ Coleção de howto e dicas.
  	- Fedora
  		- <a href="https://github.com/drsemann/sysadmin/blob/master/Linux/Fedora/fedora_posinstall.md">Pos-Instalação</a>
  - MacOS X
+ 	- Dicas
+ 		- <a href="https://github.com/drsemann/sysadmin/blob/master/macosx/dicas/ifconfig_alias.md">Alias na Interface</a>
  - Windows
 
 ## Networking
