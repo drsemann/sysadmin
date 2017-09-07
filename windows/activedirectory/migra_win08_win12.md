@@ -4,7 +4,7 @@
   * Instalar serviço do AD.
   * Promover o servidor.
   * Consultar FSMO
-     * netdom query fsmo
+     ```# netdom query fsmo```
   * Executar o comando "adprep.exe /forestprep" aplicativo está na pasta support\adprep no cd de instalação.
   * Testando se o camando adprep anterior atualizou o domino   
      * adprep.exe /domainprep
