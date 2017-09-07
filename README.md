@@ -26,7 +26,7 @@ Coleção de howto e dicas.
  		- <a href="https://github.com/drsemann/sysadmin/blob/master/macosx/dicas/ifconfig_alias.md">Alias na Interface</a>
  - Windows
  	- Active Directory
- 		- <a href="https://github.com/drsemann/sysadmin/blob/master/windows/activedirectory/migra_win08_win12.md">Migração AD Windows Server 2008 para 2012</a>
+ 		- <a href="https://github.com/drsemann/sysadmin/blob/master/windows/activedirectory/migra_win08_win12.md">Migração AD Windows Server 2008 para 2012R2</a>
 
 ## Networking
  - Cisco
