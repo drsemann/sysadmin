@@ -17,11 +17,11 @@
     ```# adprep.exe /domainprep /gpprep```
 
 7. Transferindo as funções do AD do Windows 2008R2 para o Windows 2012R2
-  - No Windows 2008R2 abra o prompt e execute o comando 
+  7.1. No Windows 2008R2 abra o prompt e execute o comando 
     
     ```# ntdsutil ```
 
-  - Abrirá um console, nele execute o comando 
+  7.1. Abrirá um console, nele execute o comando 
     
     ```# roles```
 
