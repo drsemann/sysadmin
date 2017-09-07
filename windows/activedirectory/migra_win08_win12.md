@@ -1,23 +1,34 @@
 # Migração Active Directory do 2008 para 2012R2
 
-  * Adicionar servidor no AD.
-  * Instalar serviço do AD.
-  * Promover o servidor.
-  * Consultar FSMO
-     ```# netdom query fsmo```
-  * Executar o comando "adprep.exe /forestprep" aplicativo está na pasta support\adprep no cd de instalação.
-  * Testando se o camando adprep anterior atualizou o domino   
-     * adprep.exe /domainprep
-     * adprep.exe /rodcprep
-     * adprep.exe /domainprep /gpprep
+1. Adicionar servidor no AD.
+2. Instalar serviço do AD.
+3. Promover o servidor.
+4. Consultar FSMO
+    
+ ```# netdom query fsmo```
 
-  * Transferindo as funções do AD do Windows 2008R2 para o Windows 2012R2
-     * No Windows 2008R2 abra o prompt e execute o comando 
-        * ntdsutil 
-     * Abrirá um console, nele execute o comando 
-        * roles
-     * Execute o comando 
-        * connections
+5. Executar o comando "adprep.exe /forestprep" aplicativo está na pasta support\adprep no cd de instalação.
+6. Testando se o camando adprep anterior atualizou o domino   
+
+```# adprep.exe /domainprep```
+
+```# adprep.exe /rodcprep```
+
+```# adprep.exe /domainprep /gpprep```
+
+7. Transferindo as funções do AD do Windows 2008R2 para o Windows 2012R2
+  - No Windows 2008R2 abra o prompt e execute o comando 
+    
+    ```# ntdsutil ```
+
+    - Abrirá um console, nele execute o comando 
+    
+      ```# roles```
+
+    - Execute o comando
+
+      ```# connections```
+    
      * connect to server "nome do AD novo"
      * q 
      * transfer schema master (Na janela que abrirá clique em SIM)
