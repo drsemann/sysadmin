@@ -5,31 +5,31 @@
 3. Promover o servidor.
 4. Consultar FSMO
     
- ```# netdom query fsmo```
+    ```# netdom query fsmo```
 
 5. Executar o comando "adprep.exe /forestprep" aplicativo está na pasta support\adprep no cd de instalação.
 6. Testando se o camando adprep anterior atualizou o domino   
 
-```# adprep.exe /domainprep```
+    ```# adprep.exe /domainprep```
 
-```# adprep.exe /rodcprep```
+    ```# adprep.exe /rodcprep```
 
-```# adprep.exe /domainprep /gpprep```
+    ```# adprep.exe /domainprep /gpprep```
 
 7. Transferindo as funções do AD do Windows 2008R2 para o Windows 2012R2
   - No Windows 2008R2 abra o prompt e execute o comando 
     
     ```# ntdsutil ```
 
-    - Abrirá um console, nele execute o comando 
+  - Abrirá um console, nele execute o comando 
     
-      ```# roles```
+    ```# roles```
 
-    - Execute o comando
+  - Execute o comando
 
-      ```# connections```
+    ```# connections```
     
-     * connect to server "nome do AD novo"
+  - connect to server "nome do AD novo"
      * q 
      * transfer schema master (Na janela que abrirá clique em SIM)
      * transfer PDC (Na janela que abrirá clique em SIM)
