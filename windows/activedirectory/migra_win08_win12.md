@@ -39,10 +39,9 @@
     *  transfer RID master (Na janela que abrirá clique em SIM)
     *  transfer infrastructure master (Na janela que abrirá clique em SIM)
     *  sai do prompt de comando do ntdsutil.
-  
-  *  Testando se foram efetuada a transferencia com o comando "netdom query fsmo"
+    *  Testando se foram efetuada a transferencia com o comando "netdom query fsmo"
 
-  * Migrar DHCP para servidor Novo
+  8. Migrar DHCP para servidor Novo
      * No Windows 2008R2 executar "netsh dhcp server export C:\dhcp.txt all".
      * Copiar arquivo dhcp.txt para no novo servidor.
      * No Windows 2012R2 executar o comando "netsh dhcp server import c:\dhcp.txt all".
