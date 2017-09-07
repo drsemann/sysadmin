@@ -17,19 +17,20 @@
     ```# adprep.exe /domainprep /gpprep```
 
 7. Transferindo as funções do AD do Windows 2008R2 para o Windows 2012R2
-  7.1. No Windows 2008R2 abra o prompt e execute o comando 
+  7. No Windows 2008R2 abra o prompt e execute o comando 
     
     ```# ntdsutil ```
 
-  7.1. Abrirá um console, nele execute o comando 
+  7. Abrirá um console, nele execute o comando 
     
     ```# roles```
 
-  - Execute o comando
+  7. Execute o comando
 
-    ```# connections```
-    
-  - connect to server "nome do AD novo"
+    ```
+    # connections
+    connect to server "nome do AD novo"
+    ```
      * q 
      * transfer schema master (Na janela que abrirá clique em SIM)
      * transfer PDC (Na janela que abrirá clique em SIM)
@@ -45,10 +46,3 @@
      * No Windows 2012R2 executar o comando "netsh dhcp server import c:\dhcp.txt all".
      * Autorizar o novo servidor para atribuir o DHCP.
      * Desautorizar servidor antigo e para serviço DHCP.
-
-
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
