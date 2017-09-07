@@ -17,29 +17,30 @@
     ```# adprep.exe /domainprep /gpprep```
 
 7. Transferindo as funções do AD do Windows 2008R2 para o Windows 2012R2
-  * No Windows 2008R2 abra o prompt e execute o comando 
+    * No Windows 2008R2 abra o prompt e execute o comando 
     
-    ```# ntdsutil ```
+      ```# ntdsutil ```
 
-  * Abrirá um console, nele execute o comando 
+    * Abrirá um console, nele execute o comando 
     
-    ```# roles```
+      ```# roles```
 
-  * Execute o comando
+    * Execute o comando
 
-    ```
-    # connections
-    connect to server "nome do AD novo"
-    ```
+      ```
+      # connections
+      connect to server "nome do AD novo"
+      ```
   
-  * q 
-  * transfer schema master (Na janela que abrirá clique em SIM)
-  * transfer PDC (Na janela que abrirá clique em SIM)
-  *  transfer naming master (Na janela que abrirá clique em SIM)
-  *  transfer RID master (Na janela que abrirá clique em SIM)
-  *  transfer infrastructure master (Na janela que abrirá clique em SIM)
-  *  sai do prompt de comando do ntdsutil.
-   *  Testando se foram efetuada a transferencia com o comando "netdom query fsmo"
+    * q 
+    * transfer schema master (Na janela que abrirá clique em SIM)
+    * transfer PDC (Na janela que abrirá clique em SIM)
+    *  transfer naming master (Na janela que abrirá clique em SIM)
+    *  transfer RID master (Na janela que abrirá clique em SIM)
+    *  transfer infrastructure master (Na janela que abrirá clique em SIM)
+    *  sai do prompt de comando do ntdsutil.
+  
+  *  Testando se foram efetuada a transferencia com o comando "netdom query fsmo"
 
   * Migrar DHCP para servidor Novo
      * No Windows 2008R2 executar "netsh dhcp server export C:\dhcp.txt all".
