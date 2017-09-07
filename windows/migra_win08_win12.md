@@ -1,0 +1,36 @@
+# Migração Active Directory do 2008 para 2012R2
+
+  * Adicionar servidor no AD.
+  * Instalar serviço do AD.
+  * Promover o servidor.
+  * Consultar FSMO
+     * netdom query fsmo
+  * Executar o comando "adprep.exe /forestprep" aplicativo está na pasta support\adprep no cd de instalação.
+  * Testando se o camando adprep anterior atualizou o domino   
+     * adprep.exe /domainprep
+     * adprep.exe /rodcprep
+     * adprep.exe /domainprep /gpprep
+
+  * Transferindo as funções do AD do Windows 2008R2 para o Windows 2012R2
+     * No Windows 2008R2 abra o prompt e execute o comando 
+        * ntdsutil 
+     * Abrirá um console, nele execute o comando 
+        * roles
+     * Execute o comando 
+        * connections
+     * connect to server "nome do AD novo"
+     * q 
+     * transfer schema master (Na janela que abrirá clique em SIM)
+     * transfer PDC (Na janela que abrirá clique em SIM)
+     *  transfer naming master (Na janela que abrirá clique em SIM)
+     *  transfer RID master (Na janela que abrirá clique em SIM)
+     *  transfer infrastructure master (Na janela que abrirá clique em SIM)
+     *  sai do prompt de comando do ntdsutil.
+     *  Testando se foram efetuada a transferencia com o comando "netdom query fsmo"
+
+  * Migrar DHCP para servidor Novo
+     * No Windows 2008R2 executar "netsh dhcp server export C:\dhcp.txt all".
+     * Copiar arquivo dhcp.txt para no novo servidor.
+     * No Windows 2012R2 executar o comando "netsh dhcp server import c:\dhcp.txt all".
+     * Autorizar o novo servidor para atribuir o DHCP.
+     * Desautorizar servidor antigo e para serviço DHCP.
