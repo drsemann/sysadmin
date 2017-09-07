@@ -32,6 +32,8 @@ Coleção de howto e dicas.
  - Cisco
  	- Roteadores
  		- <a href="https://github.com/drsemann/sysadmin/blob/master/cisco/roteadores/config_dhcp.md">DHCP</a>
+ 	- Dicas
+ 		- <a href="https://github.com/drsemann/sysadmin/blob/master/cisco/dicas/list_con_vpn.md">Listar conexões vpn ipsec</a>	
  - Juniper
  - Fortinet
 
