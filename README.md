@@ -27,6 +27,10 @@ Coleção de howto e dicas.
  - Windows
  	- Active Directory
  		- <a href="https://github.com/drsemann/sysadmin/blob/master/windows/activedirectory/migra_win08_win12.md">Migração AD Windows Server 2008 para 2012R2</a>
+ - VMware
+ 	- Dicas
+ 		- <a href="https://github.com/drsemann/sysadmin/blob/master/vmware/dicas/enable_snmp.md">Habilitar SNMP</a>
+
 
 ## Networking
  - Cisco
