@@ -2,7 +2,7 @@
 
 Conectado no host
 
-```# Connect-VIServer -Server "server" -User "user" -Password "pass"
+```# Connect-VIServer -Server "server" -User "user" -Password "pass"```
 
 Verificando UUID
 
