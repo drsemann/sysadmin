@@ -30,6 +30,7 @@ Coleção de howto e dicas.
  - VMware
  	- Dicas
  		- <a href="https://github.com/drsemann/sysadmin/blob/master/vmware/dicas/enable_snmp.md">Habilitar SNMP</a>
+ 		- <a href="https://github.com/drsemann/sysadmin/blob/master/vmware/dicas/check_uuid.md">Checar UUID Host</a>
 
 
 ## Networking
