@@ -1,6 +1,6 @@
 ## Macros Zabbix
 
-#### Macros Zabbix
+### Macros Zabbix
 
 ```
 {HOST.NAME}
@@ -8,7 +8,7 @@
 {$SNMP_COMMUNITY}
 ```
 
-#### Cadastro Host ESX | Macros
+### Cadastro Host ESX | Macros
 
 ```
 {$PASSWORD}
@@ -17,7 +17,7 @@
 {$UUID}
 ```
 
-#### Macros Email Zabbix
+### Macros Email Zabbix
 
 ```
 {HOST.NAME} : {TRIGGER.STATUS}
