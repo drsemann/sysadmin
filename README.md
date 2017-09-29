@@ -47,6 +47,8 @@ Coleção de howto e dicas.
  - Zabbix
  	- <a href="https://github.com/drsemann/sysadmin/blob/master/monitoramento/zabbix/zabbix_install.md">Instalação Zabbix Debian</a>
  	- <a href="https://github.com/drsemann/sysadmin/blob/master/monitoramento/zabbix/zabbix_agent_install.md">Instalação Agente</a>
+ 	- <a href="https://github.com/drsemann/sysadmin/blob/master/monitoramento/zabbix/macros_zabbix.md">Macros Zabbix</a>
+
 
 ## Banco de Dados
  - MariaDB
