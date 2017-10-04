@@ -42,6 +42,9 @@ Coleção de howto e dicas.
  			
  - Juniper
  - Fortinet
+ - Ubiquiti
+ 	- Roteadores
+ 		- <a href="https://github.com/drsemann/sysadmin/blob/master/ubiquiti/roteadores/site_to_site_er_cisco.md">Vpn site-to-site entre Edge Router Lite e Cisco Router</a>
 
 ## Monitoramento
  - Zabbix
