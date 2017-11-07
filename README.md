@@ -20,7 +20,9 @@ Coleção de howto e dicas.
 ## Plataformas
  - Linux
  	- Fedora
- 		- <a href="https://github.com/drsemann/sysadmin/blob/master/Linux/Fedora/fedora_posinstall.md">Pos-Instalação</a>
+ 		- <a href="https://github.com/drsemann/sysadmin/blob/master/linux/fedora/fedora_posinstall.md">Pos-Instalação</a>
+ 	- Dicas
+ 		- <a href="https://github.com/drsemann/sysadmin/blob/master/linux/dicas/progresso_dd.md">Acompanhar Progresso comado dd</a>	
  - MacOS X
  	- Dicas
  		- <a href="https://github.com/drsemann/sysadmin/blob/master/macosx/dicas/ifconfig_alias.md">Alias na Interface</a>
