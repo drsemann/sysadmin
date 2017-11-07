@@ -2,9 +2,7 @@
 
 ``` # sudo apt install pv ```
 
-``` 
-	# pv xxxx.img | sudo dd of=/dev/xxxx bs=4MB conv=fsync
-```
+``` # pv xxxx.img | sudo dd of=/dev/xxxx bs=4MB conv=fsync ```
 
 #### Usando o dcfldd ####
 
