@@ -37,8 +37,7 @@ Coleção de howto e dicas.
  - MacOS X
 
   - Dicas
-
-  	- <a href="https://github.com/drsemann/sysadmin/blob/master/macosx/dicas/ifconfig_alias.md">Alias na Interface</a>
+    - <a href="https://github.com/drsemann/sysadmin/blob/master/macosx/dicas/ifconfig_alias.md">Alias na Interface</a>
 
  - Windows
 
