@@ -19,8 +19,10 @@ Coleção de howto e dicas.
 
 ## Plataformas
  - Linux
- 	- Fedora
- 		- <a href="https://github.com/drsemann/sysadmin/blob/master/linux/fedora/fedora_posinstall.md">Pos-Instalação</a>
+
+  - Fedora
+
+  	- <a href="https://github.com/drsemann/sysadmin/blob/master/linux/fedora/fedora_posinstall.md">Pos-Instalação</a>
 
   - Debian
 
@@ -33,14 +35,23 @@ Coleção de howto e dicas.
     - <a href="https://github.com/drsemann/sysadmin/blob/master/linux/dicas/allow_openvpn_selinux.md">Liberar Openvpn SELinux</a>
 
  - MacOS X
- 	- Dicas
- 		- <a href="https://github.com/drsemann/sysadmin/blob/master/macosx/dicas/ifconfig_alias.md">Alias na Interface</a>
+
+  - Dicas
+
+  	- <a href="https://github.com/drsemann/sysadmin/blob/master/macosx/dicas/ifconfig_alias.md">Alias na Interface</a>
+
  - Windows
+
  	- Active Directory
+
  		- <a href="https://github.com/drsemann/sysadmin/blob/master/windows/activedirectory/migra_win08_win12.md">Migração AD Windows Server 2008 para 2012R2</a>
+
  - VMware
+
  	- Dicas
+
  		- <a href="https://github.com/drsemann/sysadmin/blob/master/vmware/dicas/enable_snmp.md">Habilitar SNMP</a>
+
  		- <a href="https://github.com/drsemann/sysadmin/blob/master/vmware/dicas/check_uuid.md">Checar UUID Host</a>
 
 
