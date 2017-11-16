@@ -25,7 +25,7 @@ Coleção de howto e dicas.
  		- <a href="https://github.com/drsemann/sysadmin/blob/master/linux/debian/install_remmina.md">Instalação Remmina 1.2</a>
  	- Dicas
  		- <a href="https://github.com/drsemann/sysadmin/blob/master/linux/dicas/progresso_dd.md">Acompanhar Progresso comado dd</a>
-    - <a href="https://github.com/drsemann/sysadmin/blob/master/linux/fedora/allow_openvpn_selinux.md">Liberar Openvpn SELinux</a>
+    - <a href="https://github.com/drsemann/sysadmin/blob/master/linux/dicas/allow_openvpn_selinux.md">Liberar Openvpn SELinux</a>
  - MacOS X
  	- Dicas
  		- <a href="https://github.com/drsemann/sysadmin/blob/master/macosx/dicas/ifconfig_alias.md">Alias na Interface</a>
