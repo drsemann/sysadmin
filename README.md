@@ -26,6 +26,7 @@ Coleção de howto e dicas.
    - Dicas
      - <a href="https://github.com/drsemann/sysadmin/blob/master/linux/dicas/progresso_dd.md">Acompanhar Progresso comado dd</a>
      - <a href="https://github.com/drsemann/sysadmin/blob/master/linux/dicas/allow_openvpn_selinux.md">Liberar Openvpn SELinux</a>
+     - <a href="https://github.com/drsemann/sysadmin/blob/master/linux/dicas/java_gtk_theme.md">Habilitar tema gtk aplicações java</a>
  - MacOS X
    - Dicas
      - <a href="https://github.com/drsemann/sysadmin/blob/master/macosx/dicas/ifconfig_alias.md">Alias na Interface</a>
