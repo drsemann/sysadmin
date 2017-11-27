@@ -1,10 +1,10 @@
-### Instalando VMWare PowerCLI ###
+## Instalando VMWare PowerCLI ##
 
-#### Pesquisando o Modulo ####
+### Pesquisando o Modulo ###
 
 ```# Find-Module -Name VMware.PowerCLI```
 
-#### Instalando Modulo ####
+### Instalando Modulo ###
 
 **Instalando para usuário atual somente**
 
@@ -18,7 +18,7 @@
 
 ```# Install-Module -Name VMware.PowerCLI -Scope AllUsers -AllowClobber```
 
-#### LIberar executar scripts PowerShell ####
+### LIberar executar scripts PowerShell ###
 
 ```# Set-ExecutionPolicy Unrestricted```
 
