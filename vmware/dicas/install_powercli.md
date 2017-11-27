@@ -14,7 +14,7 @@
 
 ```# Install-Module -Name VMware.PowerCLI -Scope AllUsers```
 
-**Caso ocorra erro na instalação para todos usuários adicionar -AllowClobber ao final do comando**
+**Caso ocorra erro na instalação para todos usuários adicionar *-AllowClobber* ao final do comando**
 
 ```# Install-Module -Name VMware.PowerCLI -Scope AllUsers -AllowClobber```
 
