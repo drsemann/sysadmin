@@ -5,5 +5,7 @@
 
 #### Ver erro SMTP ####
 ```# cat /var/log/messages |grep "PAM auth error"```
+
 ```# cat /var/log/messages |grep "IP"```
+
 ```# cat /var/log/messages |grep "itj-alexandre"```
