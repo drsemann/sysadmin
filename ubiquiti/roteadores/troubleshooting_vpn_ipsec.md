@@ -19,6 +19,7 @@
 ```# sudo tcpdump -i eth0 -n udp dst port 4500 or port 500```
 
 ## Adicionando reconecção em caso de queda
+
 ```# set vpn ipsec ike-group FOO0 dead-peer-detection action restart```
 
 ```# set vpn ipsec ike-group FOO0 dead-peer-detection interval 30```
