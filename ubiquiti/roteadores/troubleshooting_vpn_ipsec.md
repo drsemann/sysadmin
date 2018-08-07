@@ -20,5 +20,7 @@
 
 ## Adicionando reconecção em caso de queda
 ```# set vpn ipsec ike-group FOO0 dead-peer-detection action restart```
+
 ```# set vpn ipsec ike-group FOO0 dead-peer-detection interval 30```
+
 ```# set vpn ipsec ike-group FOO0 dead-peer-detection timeout 60```
