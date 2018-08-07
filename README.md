@@ -52,6 +52,8 @@ Coleção de howto e dicas.
  - Ubiquiti
  	- Roteadores
  		- <a href="https://github.com/drsemann/sysadmin/blob/master/ubiquiti/roteadores/site_to_site_er_cisco.md">Vpn site-to-site entre Edge Router Lite e Cisco Router</a>
+	  - <a href="https://github.com/drsemann/sysadmin/blob/master/ubiquiti/roteadores/troubleshooting_vpn_ipsec.md">Troubleshooting IPsec </a>
+ - Dicas
 
 ## Monitoramento
  - Zabbix
