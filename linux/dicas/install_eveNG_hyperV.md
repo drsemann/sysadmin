@@ -16,4 +16,5 @@ Selecionar a opção **Install VM** no menu de boot
 #### Pós instalação
 
 Executar o seguinte comando no Powershell para habilitar o **Intel VT-x ou AMD-V**
+
 ```# Set-VMProcessor -VMName "NomedaVMnoHyperV" -ExposeVirtualizationExtensions $True```
