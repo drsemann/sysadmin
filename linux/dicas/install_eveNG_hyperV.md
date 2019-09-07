@@ -20,3 +20,7 @@ Selecionar a opção **Install VM** no menu de boot
 Executar o seguinte comando no Powershell para habilitar o **Intel VT-x ou AMD-V**
 
 ```# Set-VMProcessor -VMName "NomedaVMnoHyperV" -ExposeVirtualizationExtensions $True```
+
+Executar comando para habilitar a comunicação entre o host e eve cia cloud0
+
+```# Get-VMNetworkAdapter -VMName "NomedaVMnoHyperV" | Set-VMNetworkAdapter -MacAddressSpoofing On```
