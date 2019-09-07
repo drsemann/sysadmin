@@ -1,17 +1,15 @@
 ## Instalar Eve-NG no HyperV
 
-#### Baixa iso de instalação
+#### Baixar iso de instalação
 https://www.eve-ng.net/downloads/eve-ng-2
 
 #### Requisitos Instalação
 
 Cpu: 4 vCpu
-
 Hd: 300GB
-
 Mem: 8GB
 
-#### Instalação
+#### Instalação VM
 
 Selecionar a opção **Install VM** no menu de boot
 
