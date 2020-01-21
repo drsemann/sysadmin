@@ -31,6 +31,8 @@ Coleção de howto e dicas.
 		- <a href="https://github.com/drsemann/sysadmin/blob/master/linux/dicas/systemd_active_runing.md">Verificar serviços ativos e rodando systemd</a>
 		- <a href="https://github.com/drsemann/sysadmin/blob/master/linux/dicas/install_eveNG_hyperV.md">Instalar Eve-NG no HyperV</a>
 		- <a href="https://github.com/drsemann/sysadmin/blob/master/linux/dicas/change_interface_name.md">Alterar nome interfaces</a>
+		- <a href="https://github.com/drsemann/sysadmin/blob/master/linux/dicas/data_instalacao.md">Data de Instalação Sistema</a>
+		- <a href="https://github.com/drsemann/sysadmin/blob/master/linux/dicas/compartilhamento_semsenha.md">Compartilhamento sem senha Samba</a>	
  - MacOS X
    - Dicas
      - <a href="https://github.com/drsemann/sysadmin/blob/master/macosx/dicas/ifconfig_alias.md">Alias na Interface</a>
