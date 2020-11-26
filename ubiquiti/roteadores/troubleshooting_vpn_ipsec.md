@@ -25,3 +25,7 @@
 ```# set vpn ipsec ike-group FOO0 dead-peer-detection interval 30```
 
 ```# set vpn ipsec ike-group FOO0 dead-peer-detection timeout 60```
+
+## Restartar uma unica VPN
+
+```# clear vpn ipsec <connection-name>```
