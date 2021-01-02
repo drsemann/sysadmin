@@ -31,7 +31,8 @@ Efetuar o update e upgrade do sistema:
 
 ```bash
 # apt update -y
-# apt upgrade -y```
+# apt upgrade -y
+```
 
 Instalar **ifupdown2** para que seja alterado as configurações de rede sem ser preciso reiniciar:
 
