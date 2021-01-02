@@ -15,6 +15,14 @@ alias cp='cp -i'
 alias mv='mv -i'
 ```
 
+Adicionar em **/etc/environment** para resolver possivel erro de codificação do perl:
+
+```bash
+LANGUAGE=en_US.UTF-8
+LANG=en_US.UTF-8
+LC_ALL=en_US.UTF-8
+```
+
 Comentar a linha do repositorio do arquivo **/etc/apt/sources.list.d/pve-enterprise.list**:
 
 ```bash
