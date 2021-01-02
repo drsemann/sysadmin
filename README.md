@@ -10,14 +10,17 @@ Coleção de howto e dicas.
 
 
 ## Conteúdo
+
  - [Plataformas](#plataformas)
  - [Networking](#networking)
  - [Monitoramento](#monitoramento)
  - [Banco de Dados](#banco-de-dados)
  - [Governança de TI](#governança-de-ti)
  - [Dicas Rápidas](#dicas)
+   [Virtualização](#virtualizacao)
 
 ## Plataformas
+
  - Linux
    - Fedora
      - <a href="https://github.com/drsemann/sysadmin/blob/master/linux/fedora/fedora_posinstall.md">Pos-Instalação</a>
@@ -46,6 +49,7 @@ Coleção de howto e dicas.
 		 - <a href="https://github.com/drsemann/sysadmin/blob/master/vmware/dicas/install_powercli.md">Instalando PowerCLI</a>
 
 ## Networking
+
  - Cisco
  	- Roteadores
  		- <a href="https://github.com/drsemann/sysadmin/blob/master/cisco/roteadores/config_dhcp.md">DHCP</a>
@@ -63,6 +67,7 @@ Coleção de howto e dicas.
 
 
 ## Monitoramento
+
  - Zabbix
  	- <a href="https://github.com/drsemann/sysadmin/blob/master/monitoramento/zabbix/zabbix_install.md">Instalação Zabbix Debian</a>
  	- <a href="https://github.com/drsemann/sysadmin/blob/master/monitoramento/zabbix/zabbix_agent_install.md">Instalação Agente</a>
@@ -70,10 +75,17 @@ Coleção de howto e dicas.
 
 
 ## Banco de Dados
+ 
  - MariaDB
  	-  <a href="https://github.com/drsemann/sysadmin/blob/master/dbs/mariadb/setar_pass_root.md">Setando e alterando senha root</a>
 
 ## Governança de TI
+
 - Glpi
 	- <a href="https://github.com/drsemann/sysadmin/blob/master/governancati/glpi/install_glpi_debian.md">Instalação Glpi no Debian</a>
+
 	- <a href="https://github.com/drsemann/sysadmin/blob/master/governancati/glpi/install_plugin_dashboard.md">Instalação do plugin dashboard no Glpi</a>
+
+## Virtualização
+
+- <a href="https://github.com/drsemann/sysadmin/blob/master/virtualizacao/proxmox/proxmox.md">Proxmox</a>
