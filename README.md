@@ -17,7 +17,7 @@ Coleção de howto e dicas.
  - [Banco de Dados](#banco-de-dados)
  - [Governança de TI](#governança-de-ti)
  - [Dicas Rápidas](#dicas)
-   [Virtualização](#virtualizacao)
+ - [Virtualização](#virtualização)
 
 ## Plataformas
 
