@@ -1,4 +1,4 @@
-### Configuração reserva DHCP
+# Configuração reserva DHCP
 
 ```
 ip dhcp pool poolname
