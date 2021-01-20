@@ -47,3 +47,11 @@ Instalar **ifupdown2** para que seja alterado as configurações de rede sem ser
 ```bash
 # apt install ifupdown2 -y
 ```
+
+Remove aviso de falta de subscrição:
+
+```bash
+sed -Ezi.bak "s/(Ext.Msg.show\(\{\s+title: gettext\('No valid sub)/void\(\{ \/\/\1/g" /usr/share/javascript/proxmox-widget-toolkit/proxmoxlib.js && systemctl restart pveproxy.service
+```
+
+Testado também no *Proxmox Backup Server* somente não executar a reinicialização do serviço *pveproxy.service*.
