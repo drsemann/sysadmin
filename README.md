@@ -18,6 +18,7 @@ Coleção de howto e dicas.
  - [Governança de TI](#governança-de-ti)
  - [Dicas Rápidas](#dicas)
  - [Virtualização](#virtualização)
+ - [pfSense](#pfsense)
 
 ## Plataformas
 
@@ -89,3 +90,7 @@ Coleção de howto e dicas.
 ## Virtualização
 
 - <a href="https://github.com/drsemann/sysadmin/blob/master/virtualizacao/proxmox/proxmox.md">Proxmox</a>
+
+## pfSense
+
+- <a href="https://github.com/drsemann/sysadmin/blob/master/pfsense/dicas/interface_hp_bge.md.md">Desabilitar watchdog interface bge HP</a>
