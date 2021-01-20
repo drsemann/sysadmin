@@ -93,4 +93,4 @@ Coleção de howto e dicas.
 
 ## pfSense
 
-- <a href="https://github.com/drsemann/sysadmin/blob/master/pfsense/dicas/interface_hp_bge.md.md">Desabilitar watchdog interface bge HP</a>
+- <a href="https://github.com/drsemann/sysadmin/blob/master/pfsense/dicas/interface_hp_bge.md">Desabilitar watchdog interface bge HP</a>
