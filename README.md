@@ -28,7 +28,8 @@ Coleção de howto e dicas.
    - Debian
      - <a href="https://github.com/drsemann/sysadmin/blob/master/linux/debian/install_remmina.md">Instalação Remmina 1.2</a>
 	 - <a href="https://github.com/drsemann/sysadmin/blob/master/linux/debian/wireguard_aws.md">Instalação wireguard no AWS</a>
-
+   - Redhat
+     - <a href="https://github.com/drsemann/sysadmin/blob/master/linux/redhat/recuperar_senha_root.md">Recuperação de senha root</a>
    - Dicas
     	- <a href="https://github.com/drsemann/sysadmin/blob/master/linux/dicas/progresso_dd.md">Acompanhar Progresso comado dd</a>
     	- <a href="https://github.com/drsemann/sysadmin/blob/master/linux/dicas/allow_openvpn_selinux.md">Liberar Openvpn SELinux</a>
