@@ -2,7 +2,9 @@
 
 ## Instale o GNOME Tweak Tool
 
-```sudo dnf install gnome-tweak-tool```
+```
+sudo dnf install gnome-tweak-tool
+```
 
  ## Instalação do Vscode
 
