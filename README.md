@@ -18,7 +18,6 @@ Coleção de howto e dicas.
  - [Governança de TI](#governança-de-ti)
  - [Dicas Rápidas](#dicas)
  - [Virtualização](#virtualização)
- - [pfSense](#pfsense)
 
 ## Plataformas
 
@@ -71,6 +70,10 @@ Coleção de howto e dicas.
 	  	- <a href="https://github.com/drsemann/sysadmin/blob/master/ubiquiti/roteadores/troubleshooting_vpn_ipsec.md">Troubleshooting IPsec </a>
 		- <a href="https://github.com/drsemann/sysadmin/blob/master/ubiquiti/roteadores/dns_forward_ad.md">Enviando consultas DNS dominio AD </a>
 	- Dicas
+ - pfSense
+	- Dicas
+		- <a href="https://github.com/drsemann/sysadmin/blob/master/pfsense/dicas/interface_hp_bge.md">Desabilitar watchdog interface bge HP</a>
+		- <a href="https://github.com/drsemann/sysadmin/blob/master/pfsense/dicas/recuperar_filesystem.md">Recuperar sistema corrompido</a> 
 
 
 ## Monitoramento
@@ -97,6 +100,4 @@ Coleção de howto e dicas.
 
 - <a href="https://github.com/drsemann/sysadmin/blob/master/virtualizacao/proxmox/proxmox.md">Proxmox</a>
 
-## pfSense
 
-- <a href="https://github.com/drsemann/sysadmin/blob/master/pfsense/dicas/interface_hp_bge.md">Desabilitar watchdog interface bge HP</a>
