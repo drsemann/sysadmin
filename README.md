@@ -29,6 +29,9 @@ Coleção de howto e dicas.
 	 - <a href="https://github.com/drsemann/sysadmin/blob/master/linux/debian/wireguard_aws.md">Instalação wireguard no AWS</a>
    - Redhat
      - <a href="https://github.com/drsemann/sysadmin/blob/master/linux/redhat/recuperar_senha_root.md">Recuperação de senha root</a>
+	 - <a href="https://github.com/drsemann/sysadmin/blob/master/linux/redhat/autenticacao_pam_squid.md">Autenticação PAM Squid</a>
+	 - <a href="https://github.com/drsemann/sysadmin/blob/master/linux/redhat/remover_erro_squidlog.md">Erro log Squid</a>
+
    - Dicas
     	- <a href="https://github.com/drsemann/sysadmin/blob/master/linux/dicas/progresso_dd.md">Acompanhar Progresso comado dd</a>
     	- <a href="https://github.com/drsemann/sysadmin/blob/master/linux/dicas/allow_openvpn_selinux.md">Liberar Openvpn SELinux</a>
